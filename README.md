@@ -47,7 +47,6 @@
 5. Pilih notebook yang ingin dibuka
 6. Jalankan notebook dengan klik -> **Run All**
 
-
 ## Kesimpulan Umum Perjalanan Belajar Data Science :
 
 - Pada Pertemuan awal 1, disini mulai membangun fondasi, memahami dasar Python, belajar membaca dan mengeksplorasi data menggunakan Pandas dan NumPy.
