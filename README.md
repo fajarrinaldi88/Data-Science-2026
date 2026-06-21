@@ -43,14 +43,14 @@
 1. Buka notebook
 2. Buka : https://colab.research.google.com
 3. Salin URL notebook GitHub : https://github.com/fajarrinaldi88/data-science-2026
-4. Pilih tab **GitHub**
+4. Pilih tab -> **GitHub**
 5. Pilih notebook yang ingin dibuka
-6. Jalankan notebook dengan klik **Run All**
+6. Jalankan notebook dengan klik -> **Run All**
 
 ---
 
-
 ## Kesimpulan Umum Perjalanan Belajar
+
 - Sebanyak tujuh pertemuan ini merupakan perjalanan belajar yang mengalir, dari yang paling sederhana sampai yang paling menantang.
 - Di awal (Pertemuan 1–2), membangun fondasi, memahami dasar Python, belajar membaca dan mengeksplorasi data menggunakan Pandas dan NumPy.
 - Dataset Titanic pada pertemuan 2 mengajarkan bahwa data bisa bercerita banyak hal kalau kita tahu cara membaca dan mengolahnya.
@@ -62,4 +62,4 @@
 
 ---
 
-*Terima kasih*
+= Terima kasih =
