@@ -47,19 +47,15 @@
 5. Pilih notebook yang ingin dibuka
 6. Jalankan notebook dengan klik -> **Run All**
 
+
+## Kesimpulan Umum Perjalanan Belajar Data Science :
+
+- Pada Pertemuan awal 1, disini mulai membangun fondasi, memahami dasar Python, belajar membaca dan mengeksplorasi data menggunakan Pandas dan NumPy.
+- Pada Pertemuan 2, Dataset Titanic, mengajarkan bahwa data bisa bercerita banyak hal kalau kita tahu cara membaca dan mengolahnya.
+- Pada Pertemuan 3 sampai pertemuan 5, saya belajar ternyata data di dunia nyata sangatlah luas dan jarang sekali bersih dan tidak rapi.
+- disini kami belajar tentang Data cleaning di Pertemuan 3 mengajarkan kesabaran dan ketelitian.
+- Di Pertemuan 4 dan 5 menunjukkan visualisasi bukan sekadar membuat grafik yang cantik, melainkan alat komunikasi untuk menyampaikan temuan secara jelas dan mudah dipahami.
+- Di penghujung (Pertemuan 6 dan 7), Preprocessing data di Pertemuan 6 seperti merangkum semua teknik yang pernah dipelajari sebelumnya, dan Model Machine Learning pertama saya berhasil berjalan dan menghasilkan prediksi yang cukup akurat.
 ---
 
-## Kesimpulan Umum Perjalanan Belajar
-
-- Sebanyak tujuh pertemuan ini merupakan perjalanan belajar yang mengalir, dari yang paling sederhana sampai yang paling menantang.
-- Di awal (Pertemuan 1–2), membangun fondasi, memahami dasar Python, belajar membaca dan mengeksplorasi data menggunakan Pandas dan NumPy.
-- Dataset Titanic pada pertemuan 2 mengajarkan bahwa data bisa bercerita banyak hal kalau kita tahu cara membaca dan mengolahnya.
-- Di tengah perjalanan (Pertemuan 3–5), saya belajar ternyata data di dunia nyata itu jarang sekali bersih dan rapi.
-- Data cleaning di Pertemuan 3 mengajarkan kesabaran dan ketelitian.
-- Pertemuan 4 dan 5 menunjukkan visualisasi bukan sekadar membuat grafik yang cantik, melainkan alat komunikasi untuk menyampaikan temuan secara jelas dan mudah dipahami.
-- Di penghujung (Pertemuan 6–7), Preprocessing data di Pertemuan 6 seperti merangkum semua teknik yang pernah dipelajari sebelumnya, dan Model Machine Learning pertama saya berhasil berjalan dan menghasilkan prediksi yang cukup akurat.
-- Dari semua perjalanan belajar ini, mengubah cara saya memandang data. Data bukan sekadar angka-angka, ia adalah cerita yang menunggu untuk diolah dan dibaca.
-
----
-
-= Terima kasih =
+= Sekian & Terima kasih =
