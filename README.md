@@ -17,7 +17,7 @@
 | 1 | Pertemuan 1 | Pengenalan Data Science | [Pertemuan1_FajarRinaldi_250401020204.ipynb](Pertemuan1_FajarRinaldi_250401020204.ipynb) |
 | 2 | Pertemuan 2 | Struktur Data Python, NumPy & Pandas | [Pertemuan2_FajarRinaldi_250401020204.ipynb](Pertemuan2_FajarRinaldi_250401020204.ipynb) |
 | 3 | Pertemuan 3 | Data Cleaning: Missing Values, Outlier & Ekstraksi Data | [Pertemuan3_FajarRinaldi_250401020204.ipynb](Pertemuan3_FajarRinaldi_250401020204.ipynb) |
-| 4 | Pertemuan 4 | Statistika Dasar & Analisis Data | [Pertemuan5_FajarRinaldi_250401020204.ipynb](Pertemuan4_FajarRinaldi_250401020204.ipynb) |
+| 4 | Pertemuan 4 | Statistika Dasar & Analisis Data | [Pertemuan4_FajarRinaldi_250401020204.ipynb](Pertemuan4_FajarRinaldi_250401020204.ipynb) |
 | 5 | Pertemuan 5 | Visualisasi Data | [Pertemuan5_FajarRinaldi_250401020204.ipynb](Pertemuan5_FajarRinaldi_250401020204.ipynb) |
 | 6 | Pertemuan 6 | Persiapan Data | [Pertemuan6_FajarRinaldi_250401020204.ipynb](Pertemuan6_FajarRinaldi_250401020204.ipynb) |
 | 7 | Pertemuan 7 | Pengantar Machine Learning: Regresi Linear | [Pertemuan7_FajarRinaldi_250401020204.ipynb](Pertemuan7_FajarRinaldi_250401020204.ipynb) |
@@ -35,50 +35,17 @@
 | Lingkungan Kerja | Google Colab |
 | Version Control | Git & GitHub |
 
----
 
 ## Cara Menjalankan Notebook
 
-### Via Google Colab (Direkomendasikan)
+### Via Google Colab 
 
-1. Buka notebook yang ingin dijalankan
-2. Salin URL notebook GitHub : https://github.com/ranggadev/data-science-2026
-3. Buka : https://colab.research.google.com
+1. Buka notebook
+2. Buka : https://colab.research.google.com
+3. Salin URL notebook GitHub : https://github.com/fajarrinaldi88/data-science-2026
 4. Pilih tab **GitHub**
-5. Tempel URL notebook atau repository
-6. Pilih notebook yang ingin dibuka
-7. Klik **Runtime → Run All**
-
-### Via Lokal (Jupyter Notebook)
-
-```bash
-# Clone repository
-git clone https://github.com/ranggadev/data-science-2026.git
-
-# Masuk ke folder project
-cd data-science-2026
-
-# Buat virtual environment
-python -m venv venv
-
-# Aktifkan environment
-# Windows
-venv\Scripts\activate
-
-# Linux/macOS
-source venv/bin/activate
-
-# Install dependencies
-pip install -r requirements.txt
-
-# Jalankan Jupyter Notebook
-jupyter notebook
-```
-
-### Requirements
-
-- Python 3.11+
-- Jupyter Notebook
+5. Pilih notebook yang ingin dibuka
+6. Jalankan notebook dengan klik **Run All**
 
 ---
 
