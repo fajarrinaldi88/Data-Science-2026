@@ -14,13 +14,13 @@
 ## List Pertemuan 1 sampai 7
 | No | Sesi | Materi | Link Notebook |
 |----|-----------|-------|---------------|
-| 1 | Pertemuan 1 | Pengenalan Data Science | [Link](Pertemuan1_FajarRinaldi_250401020204.ipynb) |
-| 2 | Pertemuan 2 | Struktur Data Python, NumPy & Pandas | [Buka Notebook](Pertemuan2_RanggaSaputra_250401020034.ipynb) |
-| 3 | Pertemuan 3 | Data Cleaning: Missing Values, Outlier & Ekstraksi Data | [Buka Notebook](Pertemuan3_RanggaSaputra_250401020034.ipynb) |
-| 4 | Pertemuan 4 | Statistika Dasar & Analisis Data | [Buka Notebook](Pertemuan4_RanggaSaputra_250401020034.ipynb) |
-| 5 | Pertemuan 5 | Visualisasi Data | [Buka Notebook](Pertemuan5_RanggaSaputra_250401020034.ipynb) |
-| 6 | Pertemuan 6 | Persiapan Data | [Buka Notebook](Pertemuan6_RanggaSaputra_250401020034.ipynb) |
-| 7 | Pertemuan 7 | Pengantar Machine Learning: Regresi Linear | [Buka Notebook](Pertemuan7_RanggaSaputra_250401020034.ipynb) |
+| 1 | Pertemuan 1 | Pengenalan Data Science | [Pertemuan1_FajarRinaldi_250401020204.ipynb](Pertemuan1_FajarRinaldi_250401020204.ipynb) |
+| 2 | Pertemuan 2 | Struktur Data Python, NumPy & Pandas | [Pertemuan2_FajarRinaldi_250401020204.ipynb](Pertemuan2_FajarRinaldi_250401020204.ipynb) |
+| 3 | Pertemuan 3 | Data Cleaning: Missing Values, Outlier & Ekstraksi Data | [Pertemuan3_FajarRinaldi_250401020204.ipynb](Pertemuan3_FajarRinaldi_250401020204.ipynb) |
+| 4 | Pertemuan 4 | Statistika Dasar & Analisis Data | [Pertemuan5_FajarRinaldi_250401020204.ipynb](Pertemuan4_FajarRinaldi_250401020204.ipynb) |
+| 5 | Pertemuan 5 | Visualisasi Data | [Pertemuan5_FajarRinaldi_250401020204.ipynb](Pertemuan5_FajarRinaldi_250401020204.ipynb) |
+| 6 | Pertemuan 6 | Persiapan Data | [Pertemuan6_FajarRinaldi_250401020204.ipynb](Pertemuan6_FajarRinaldi_250401020204.ipynb) |
+| 7 | Pertemuan 7 | Pengantar Machine Learning: Regresi Linear | [Pertemuan7_FajarRinaldi_250401020204.ipynb](Pertemuan7_FajarRinaldi_250401020204.ipynb) |
 
 
 ## Tools & Library yang Digunakan
