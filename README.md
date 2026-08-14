@@ -8,10 +8,10 @@
 ## Deskripsi Singkat _(About Me)_
 - Assalamualaikum Pak Syahid, saya Fajar Rinaldi, Mahasiswa PJJ Informatika Angkatan 2025, Kelas : IF405
 - Tujuan menempuh mata kuliah Data Science bukan sekadar untuk memahami kode pemrograman, melainkan untuk membangun pola pikir berbasis data _(data-driven mindset)_, Menguasai Literasi Data, mengembangkan kemampuan _Problem Solving), dan Hard Skills_.
-- Repository ini berisi seluruh hasil pertemuan Data Science dari sesi 1 hingga sesi 7
+- Repository ini berisi seluruh hasil pertemuan Data Science dari sesi 1 hingga sesi 13
 
 
-## List Pertemuan 1 sampai 7
+## List Pertemuan 1 sampai 13
 | No | Sesi | Materi | Link Notebook |
 |----|-----------|-------|---------------|
 | 1 | Pertemuan 1 | Pengenalan Data Science | [Pertemuan1_FajarRinaldi_250401020204.ipynb](Pertemuan1_FajarRinaldi_250401020204.ipynb) |
@@ -21,7 +21,11 @@
 | 5 | Pertemuan 5 | Visualisasi Data | [Pertemuan5_FajarRinaldi_250401020204.ipynb](Pertemuan5_FajarRinaldi_250401020204.ipynb) |
 | 6 | Pertemuan 6 | Persiapan Data | [Pertemuan6_FajarRinaldi_250401020204.ipynb](Pertemuan6_FajarRinaldi_250401020204.ipynb) |
 | 7 | Pertemuan 7 | Pengantar Machine Learning: Regresi Linear | [Pertemuan7_FajarRinaldi_250401020204.ipynb](Pertemuan7_FajarRinaldi_250401020204.ipynb) |
-
+| 8 | Pertemuan 9 | Algoritma Klasifikasi (Bagian 1) | [Pertemuan9_FajarRinaldi_250401020204.ipynb](Pertemuan9_FajarRinaldi_250401020204.ipynb) |
+| 9 | Pertemuan 10 | Algoritma Klasifikasi (Bagian 2) | [Pertemuan10_FajarRinaldi_250401020204.ipynb](Pertemuan10_FajarRinaldi_250401020204.ipynb) |
+| 10 | Pertemuan 11 | Unsupervised Learning (Clustering) | [Pertemuan11_FajarRinaldi_250401020204.ipynb](Pertemuan11_FajarRinaldi_250401020204.ipynb) |
+| 11 | Pertemuan 12 | Asosiasi Data & Sistem Rekomendasi Dasar | [Pertemuan12_FajarRinaldi_250401020204.ipynb](Pertemuan12_FajarRinaldi_250401020204.ipynb) |
+| 12 | Pertemuan 13 | Pengantar Deep Learning & NLP Dasar | [Pertemuan13_FajarRinaldi_250401020204.ipynb](Pertemuan13_FajarRinaldi_250401020204.ipynb) |
 
 ## Tools & Library yang Digunakan
 
