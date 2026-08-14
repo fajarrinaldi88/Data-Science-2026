@@ -58,7 +58,11 @@
 - Pada Pertemuan 3 sampai pertemuan 5, saya belajar ternyata data di dunia nyata sangatlah luas dan jarang sekali bersih dan tidak rapi.
 - disini kami belajar tentang Data cleaning di Pertemuan 3 mengajarkan kesabaran dan ketelitian.
 - Di Pertemuan 4 dan 5 menunjukkan visualisasi bukan sekadar membuat grafik yang cantik, melainkan alat komunikasi untuk menyampaikan temuan secara jelas dan mudah dipahami.
-- Di penghujung (Pertemuan 6 dan 7), Preprocessing data di Pertemuan 6 seperti merangkum semua teknik yang pernah dipelajari sebelumnya, dan Model Machine Learning pertama saya berhasil berjalan dan menghasilkan prediksi yang cukup akurat.
+- Di Pertemuan 6 dan 7, Preprocessing data di Pertemuan 6 seperti merangkum semua teknik yang pernah dipelajari sebelumnya, dan Model Machine Learning pertama saya berhasil berjalan dan menghasilkan prediksi yang cukup akurat.
+- Pada Pertemuan 9 dan 10, Pematangan Teknik Prediktif, memahami dasar algoritma klasifikasi (seperti Logistic Regression dan Decision Tree) menuju teknik Ensemble yang lebih robust seperti Random Forest.Fokus utama di sini adalah bagaimana meningkatkan performa model dan menangani tantangan data dunia nyata, terutama dataset yang tidak seimbang (imbalanced data), di mana akurasi saja tidak cukup sebagai indikator keberhasilan.
+- Pada Pertemuan 11 dan 12, Memberikan pemahaman mendalam tentang bagaimana data dapat "berbicara sendiri" melalui pengelompokan (clustering) dan bagaimana perilaku pengguna dapat diprediksi melalui sistem rekomendasi dan aturan asosiasi. Hal ini sangat krusial dalam bisnis untuk segmentasi pelanggan dan optimasi strategi pemasaran.
+- Dan pada Pertemuan 13, Sebagai penutup dari rangkaian ini, pengenalan Deep Learning dan dasar-dasar Natural Language Processing (NLP) memberikan gambaran mengenai masa depan pemrosesan data.
+- 
 ---
 
 = Sekian & Terima kasih =
